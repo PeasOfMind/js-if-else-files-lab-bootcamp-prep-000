@@ -1,1 +1,1 @@
-console.log(name)
+var index = requre("./index.js")
